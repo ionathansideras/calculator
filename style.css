@@ -40,7 +40,7 @@ h1 {
 }
 
 .num0 {
-    grid-column: 1/4;
+    grid-column: 1/3;
 }
 
 .clear {
@@ -61,7 +61,7 @@ button {
     color: rgb(75, 75, 75);
 }
 
-.minus, .plus, .mult, .divi {
+.minus, .plus, .mult, .divi, .dot {
     background-color: #FFFF31;
 }
 
